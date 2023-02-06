@@ -1,3 +1,4 @@
+
 const Challenge = () => {
     const number1 = 8, number2 = 10;
 
@@ -16,3 +17,4 @@ const Challenge = () => {
 };
 
 export default Challenge;
+
