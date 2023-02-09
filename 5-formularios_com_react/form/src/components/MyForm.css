@@ -28,8 +28,10 @@ select {
     margin-left: 5%;
     margin-right: 5%;
     padding-bottom: 100px;
-    margin-top: 15%;
     height: auto;
+    min-width: 15%; 
+    max-width: 90%;
+    max-height: 500px;
 }
 
 input[type="submit"] {
@@ -73,9 +75,9 @@ label {
     display: block;
 }
 
-textarea {
-    padding: 30px;
-    width: 87%;
+.text {
+    height: 100px;
+    width: 489px;
 }
 
 button {

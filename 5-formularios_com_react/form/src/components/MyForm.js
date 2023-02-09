@@ -58,7 +58,7 @@ const MyForm = ({ user }) => {
                 </label>
                 <label>
                     <span>Bio:</span>
-                    <textarea name="bio" placeholder='description'
+                    <textarea  class="text" name="bio" placeholder='description'
                     onChange={(e) => setBio(e.target.value)}
                     value={bio}
                     ></textarea>
