@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 5
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 6
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 7
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 8
+    },
+    {
+      "name": "GABRIELA",
+      "price": "120",
+      "id": 9
+    },
+    {
+      "name": "FRFR",
+      "price": "FR",
+      "id": 10
+    },
+    {
+      "name": "FRFR",
+      "price": "FR",
+      "id": 11
+    },
+    {
+      "name": "FRFR",
+      "price": "FRFRFR",
+      "id": 12
+    },
+    {
+      "name": "FRFR",
+      "price": "FRFRFR",
+      "id": 13
+    },
+    {
+      "name": "FRFR",
+      "price": "FRFRFR",
+      "id": 14
+    },
+    {
+      "name": "FRFR",
+      "price": "FRFRFR",
+      "id": 15
+    },
+    {
+      "name": "hhuhuhu",
+      "price": "8784",
+      "id": 16
+    }
+  ]
+}
